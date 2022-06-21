@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "79ad558f1757f732a6ea7c662f6793f0",
+  "assets/AssetManifest.json": "224121243c739180fc839c4251628fe8",
 "assets/assets/avatars/avatar-1.jpg": "a834f9232d0ea4507bfdcf46ba69ab78",
 "assets/assets/avatars/avatar-2.jpg": "36dc1e866b30b68f446490f32d1a2113",
 "assets/assets/avatars/avatar-3.jpg": "5bcd881334bad5da1b5d159f45299d3c",
@@ -148,10 +148,8 @@ const RESOURCES = {
 "assets/assets/suni/logo/bitcoin.png": "6640f6c94a3ed9df59b31bb881a91415",
 "assets/FontManifest.json": "cd4dcc82ff7557a5643bf3052144086a",
 "assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
-"assets/NOTICES": "c3660559d23b59438d4e0384cf058274",
+"assets/NOTICES": "152fb58208dfc27cade6f37029a19a91",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/fluttertoast/assets/toastify.css": "a85675050054f179444bc5ad70ffc635",
-"assets/packages/fluttertoast/assets/toastify.js": "e7006a0a033d834ef9414d48db3be6fc",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "d1722d5cf2c7855862f68edb85e31f88",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "613e4cc1af0eb5148b8ce409ad35446d",
 "assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dd3c4233029270506ecc994d67785a37",
@@ -164,9 +162,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "c242917dd2474c3081b57b645f4e4ec5",
-"/": "c242917dd2474c3081b57b645f4e4ec5",
-"main.dart.js": "742a41846e19930d8fe0f3e3fc6b73b9",
+"index.html": "fc854cc97cfe6fe5175922a2e183c4ea",
+"/": "fc854cc97cfe6fe5175922a2e183c4ea",
+"main.dart.js": "ca879fb5b16ebdd1b51d827d7d467e04",
 "manifest.json": "dba2f7e3b459a159c1d87d988d11b24e",
 "version.json": "81c3590f0ca4bebb9f5c77f75db35d94"
 };
